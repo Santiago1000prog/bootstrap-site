@@ -1,0 +1,14 @@
+.form-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contact {
+    width: 500px;
+}
+
+.active {
+    font-weight: bold;
+}
